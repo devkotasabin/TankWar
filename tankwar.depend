@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1296741848 source:c:\users\user\desktop\game frontier\try it\tankwar\main.c
+	"tankwar.h"
+
+1296741734 c:\users\user\desktop\game frontier\try it\tankwar\tankwar.h
+	"allegro.h"
+	"../mappydemo/mappyal.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1296741210 source:c:\users\user\desktop\game frontier\try it\tankwar\setup.c
+	"tankwar.h"
+
+1296741602 source:c:\users\user\desktop\game frontier\try it\tankwar\tank.c
+	"tankwar.h"
+
+1296666628 source:c:\users\user\desktop\game frontier\try it\tankwar\input.c
+	"tankwar.h"
+
+1296741894 source:c:\users\user\desktop\game frontier\try it\tankwar\bullet1.c
+	"tankwar.h"
+
+1011180760 c:\users\user\desktop\game frontier\try it\mappydemo\mappyal.h
+
+1296671067 source:c:\users\user\desktop\game frontier\try it\mappydemo\mappyal.c
+	<stdio.h>
+	<string.h>
+	<allegro.h>
+
